@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EuPmhxS1crdiN1PfobV6m1UrSFAqcC34SgZS25n3mOmcEGwyqaMtIjGI/B0IC3GqPgRfUwr3d21l8g+BXGVqFQ==",
+  "dgSpecHash": "D4/9dxosan0jIu1H8PUYjk2EFr8luqJxmBCVwaG19qR7Z5QvKOJCYVmqbrM9lxKVRqBchzzRacAzTG4I6yt+3w==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\src\\Cadastros\\Cadastros.csproj",
+  "projectFilePath": "D:\\Projetos\\src\\desafio-cadastros\\Cadastros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\evert\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

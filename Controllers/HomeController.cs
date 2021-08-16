@@ -52,16 +52,5 @@ namespace Shop.Controllers {
         [Route("manager")]
         [Authorize(Roles = "manager")]
         public string Manager() => "Gerente";
-
-        [HttpGet]
-        [Route("consultaCadastro")]
-        [Authorize]
-        public async Task<ActionResult<dynamic>> ConsultarCadastro([FromBody]Cadastro model) {
-            var Cadastro = CadastrosRepository.Get();
-
-            return new {
-                Cadastro = Cadastro
-            };
-        }
     }
 }

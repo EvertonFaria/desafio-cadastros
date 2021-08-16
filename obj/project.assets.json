@@ -1726,11 +1726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\src\\Cadastros\\Cadastros.csproj",
+      "projectUniqueName": "D:\\Projetos\\src\\desafio-cadastros\\Cadastros.csproj",
       "projectName": "Cadastros",
-      "projectPath": "D:\\Projetos\\src\\Cadastros\\Cadastros.csproj",
+      "projectPath": "D:\\Projetos\\src\\desafio-cadastros\\Cadastros.csproj",
       "packagesPath": "C:\\Users\\evert\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\src\\Cadastros\\obj\\",
+      "outputPath": "D:\\Projetos\\src\\desafio-cadastros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
