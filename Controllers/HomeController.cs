@@ -1,10 +1,8 @@
-using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Cadastros.Models;
 using System;
 using Microsoft.AspNetCore.Authorization;
-using System.Linq;
 using Cadastros.Services;
 using Cadastros.Repositories;
 
