@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
-using Cadastros.Models;
+using Cadastros.Domain.Models;
 
-namespace Cadastros.Repositories {
+namespace Cadastros.Domain.Repositories {
     public static class UserRepository {
         public static User Get(string username, string password) {
             var users = new List<User>();

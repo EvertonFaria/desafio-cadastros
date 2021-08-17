@@ -1,12 +1,12 @@
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Cadastros.Models;
 using System;
-using Microsoft.AspNetCore.Authorization;
 using Cadastros.Services;
-using Cadastros.Repositories;
+using System.Threading.Tasks;
+using Cadastros.Domain.Models;
+using Microsoft.AspNetCore.Mvc;
+using Cadastros.Domain.Repositories;
+using Microsoft.AspNetCore.Authorization;
 
-namespace Shop.Controllers {
+namespace Cadastros.Controllers {
     [Route("v1/account")]
     public class HomeController : Controller {
         [HttpPost]
