@@ -3,7 +3,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Cadastros.Domain.Models;
 using Cadastros.Domain.Services;
-using Microsoft.AspNetCore.Authorization;
 
 namespace Cadastros.Controllers {
     [Route("v1/[controller]")]
